@@ -3,16 +3,14 @@
 import 'estudiantes.dart';
 import 'grupo.dart';
 import 'plataforma.dart';
+import 'salon.dart';
 import 'tema.dart';
 import 'virtual.dart';
-// ignore: unused_import
-//import 'horario.dart';
-// ignore: unused_import
-//import 'presencial.dart';
-// ignore: unused_import
-//import 'salon.dart';
-// ignore: unused_import
-//import 'calificación.dart';
+import 'asignatura.dart';
+import 'calificación.dart';
+import 'horario.dart';
+import 'presencial.dart';
+import 'salon.dart';
 
 void main() {
 //crear objetos de tipo Grupo
